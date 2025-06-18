@@ -11,12 +11,6 @@
 
 ---
 
-### 🔥 Mes séries de contributions (streaks)
-
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=helyio-dev&theme=dark)](https://git.io/streak-stats)
-
----
-
 ### 👀 Vues du profil
 
 ![Compteur de vues](https://komarev.com/ghpvc/?username=helyio-dev&color=blue)
