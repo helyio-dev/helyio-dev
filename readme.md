@@ -19,7 +19,8 @@
 
 ### 📫 Me contacter
 
-* [Discord](https://discordapp.com/users/1372225201210789899)
 * [Instagram](https://www.instagram.com/shoirakan)
+* [LinkedIn](https://www.linkedin.com/in/lilian-a-5b9b02263/)
+* [Mail](helyio.dev@gmail.com)
 
 ---
