@@ -1,26 +1,18 @@
-### 📊 Mes stats GitHub
+###
 
-[![Stats GitHub](https://github-readme-stats.vercel.app/api?username=helyio-dev&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top langages](https://github-readme-stats.vercel.app/api/top-langs/?username=helyio-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helyio-dev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=helyio-dev&locale=en&mode=daily&theme=monokai&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
+</div>
 
----
+###
 
-### 📈 Mon activité GitHub
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=helyio-dev&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="100" alt="trophy graph"  />
+</div>
 
-[![Activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=helyio-dev&GITHUBtheme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 
----
-
-### 👀 Vues du profil
-
-![Compteur de vues](https://komarev.com/ghpvc/?username=helyio-dev&color=blue)
-
----
-
-### 📫 Me contacter
-
-* [Instagram](https://www.instagram.com/shoirakan)
-* [LinkedIn](https://www.linkedin.com/in/lilian-a-5b9b02263/)
-* [Mail](helyio.dev@gmail.com)
-
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=helyio-dev&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
